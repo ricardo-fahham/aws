@@ -106,17 +106,17 @@ flowchart TD
 
 ## Vantagens
 
-✅ Não precisa administrar infraestrutura.
-✅ Integração direta com S3.
-✅ Usa SQL, uma linguagem conhecida por analistas.
-✅ Bom para análises exploratórias.
-✅ Escala para grandes volumes de dados.
+- Não precisa administrar infraestrutura.
+- Integração direta com S3.
+- Usa SQL, uma linguagem conhecida por analistas.
+- Bom para análises exploratórias.
+- Escala para grandes volumes de dados.
 
 ## Desvantagens
 
-❌ Não é indicado para aplicações transacionais (como sistemas de cadastro em tempo real).
-❌ Consultas podem ficar caras se os dados não estiverem bem organizados.
-❌ Depende de uma boa organização do Data Lake.
+- Não é indicado para aplicações transacionais (como sistemas de cadastro em tempo real).
+- Consultas podem ficar caras se os dados não estiverem bem organizados.
+- Depende de uma boa organização do Data Lake.
 
 ## Diferença entre Athena e RDS
 

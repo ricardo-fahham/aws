@@ -10,17 +10,51 @@ Computação em nuvem é o fornecimento de recursos de TI pela internet, como se
 
 ## Principais serviços da AWS
 
-* [Amazon Athena](./docs/Athena.md): Serviço de consulta de dados(query)
-* [Amazon EC2](./docs/ec2.md): cria e gerencia servidores virtuais.
-* [Amazon S3](./docs/s3.md): armazena arquivos, imagens, vídeos e backups.
-* [Amazon RDS](./docs/rds.md): banco de dados relacional gerenciado.
-* [Amazon DynamoDB](./docs/DynamoDB.md): banco de dados NoSQL de alta disponibilidade.
-* [AWS Lambda](./docs/Lambda.md): executa código sem gerenciar servidores.
-* [Amazon VPC](./docs/VPC.md): cria redes virtuais isoladas.
-* [Amazon CloudWatch](./docs/CloudWatch.md): monitora aplicações e infraestrutura.
-* [AWS IAM](./docs/IAM.md): controla usuários, permissões e acessos.
-* [Amazon CloudFront](./docs/CloudFront.md): distribui conteúdo com baixa latência.
-* [Amazon API Gateway](./docs/gateway.md): cria e gerencia APIs.
+* [Amazon Athena](./docs/Athena.md): Serviço de consulta de dados (query).
+  - Documentação: https://docs.aws.amazon.com/athena/
+  - AWS CLI Commands: https://docs.aws.amazon.com/cli/latest/reference/athena/
+
+* [Amazon EC2](./docs/ec2.md): Cria e gerencia servidores virtuais.
+  - Documentação: https://docs.aws.amazon.com/ec2/
+  - AWS CLI Commands: https://docs.aws.amazon.com/cli/latest/reference/ec2/
+
+* [Amazon S3](./docs/s3.md): Armazena arquivos, imagens, vídeos e backups.
+  - Documentação: https://docs.aws.amazon.com/s3/
+  - AWS CLI Commands: https://docs.aws.amazon.com/cli/latest/reference/s3/
+
+* [Amazon RDS](./docs/rds.md): Banco de dados relacional gerenciado.
+  - Documentação: https://docs.aws.amazon.com/rds/
+  - AWS CLI Commands: https://docs.aws.amazon.com/cli/latest/reference/rds/
+
+* [Amazon DynamoDB](./docs/DynamoDB.md): Banco de dados NoSQL de alta disponibilidade.
+  - Documentação: https://docs.aws.amazon.com/dynamodb/
+  - AWS CLI Commands: https://docs.aws.amazon.com/cli/latest/reference/dynamodb/
+
+* [Amazon Lambda](./docs/Lambda.md): Executa código sem gerenciar servidores.
+  - Documentação: https://docs.aws.amazon.com/lambda/
+  - AWS CLI Commands: https://docs.aws.amazon.com/cli/latest/reference/lambda/
+
+* [Amazon VPC](./docs/VPC.md): Cria redes virtuais isoladas.
+  - Documentação: https://docs.aws.amazon.com/vpc/
+  - AWS CLI Commands: https://docs.aws.amazon.com/cli/latest/reference/ec2/
+
+* [Amazon CloudWatch](./docs/CloudWatch.md): Monitora aplicações e infraestrutura.
+  - Documentação: https://docs.aws.amazon.com/cloudwatch/
+  - AWS CLI Commands:
+    - CloudWatch: https://docs.aws.amazon.com/cli/latest/reference/cloudwatch/
+    - CloudWatch Logs: https://docs.aws.amazon.com/cli/latest/reference/logs/
+
+* [Amazon IAM](./docs/IAM.md): Controla usuários, permissões e acessos.
+  - Documentação: https://docs.aws.amazon.com/iam/
+  - AWS CLI Commands: https://docs.aws.amazon.com/cli/latest/reference/iam/
+
+* [Amazon CloudFront](./docs/CloudFront.md): Distribui conteúdo com baixa latência.
+  - Documentação: https://docs.aws.amazon.com/cloudfront/
+  - AWS CLI Commands: https://docs.aws.amazon.com/cli/latest/reference/cloudfront/
+
+* [Amazon API Gateway](./docs/gateway.md): Cria e gerencia APIs.
+  - Documentação: https://docs.aws.amazon.com/apigateway/
+  - AWS CLI Commands: https://docs.aws.amazon.com/cli/latest/reference/apigateway/
 
 ## Modelos de serviço
 
